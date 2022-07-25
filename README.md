@@ -8,7 +8,7 @@ I built a lot of nice looking user interfaces , worked with a lot of API's .
 - 👯 all the demo links are attatched to all the repos.
 - 🤔 How to reach me [mohamedtarek4470@gmail.com]
 - 💬 my [Linkedin](https://www.linkedin.com/in/mohamed-tarek-09850723a)
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Languages 
+- html
+- css
 -->
