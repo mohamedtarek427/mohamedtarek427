@@ -9,6 +9,6 @@ I built a lot of nice looking user interfaces , worked with a lot of API's .
 - 🤔 How to reach me [mohamedtarek4470@gmail.com]
 - 💬 my [Linkedin](https://www.linkedin.com/in/mohamed-tarek-09850723a)
 - Languages, tools and frameworks :
-- <img src=https://ar.m.wikipedia.org/wiki/%D9%85%D9%84%D9%81:HTML5_logo_and_wordmark.svg v=4&s=20 height=20 />
+- <img src=https://ar.m.wikipedia.org/wiki/%D9%85%D9%84%D9%81:HTML5_logo_and_wordmark.svgv=4&s=20 height=20 />
 -
 -->
