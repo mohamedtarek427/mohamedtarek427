@@ -1,4 +1,4 @@
-### Hello world👋, I'm Randa Mohamed
+### Hello world👋, I'm Mohamed tarek
 
 <!--
 **mohamedtarek427/mohamedtarek427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
